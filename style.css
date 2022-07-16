@@ -908,7 +908,7 @@ header {
 .introduction {
   text-align: center;
 }
-#download-resume-btn { 
+#resume-btn { 
   color: #3a3335ff;
   background: transparent;
   display: block; 
@@ -922,7 +922,7 @@ header {
   text-decoration: none;
   width: 10em;
 }
-#download-resume-btn:hover {
+#resume-btn:hover {
   cursor: pointer;
   color: white;
   background-color: #3a3335ff;
